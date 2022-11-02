@@ -5,8 +5,7 @@
 //Forma de ejecutar: En Editor P5JS
 //  1.- Ir a https://editor.p5js.org/
 //  2.- Copiar el presente código
-//  3.- Darle "play".
-
+//  3.- Darle "play"
 
 //Función que crea el Canvas donde se realiza el dibujado.
 function setup() {
